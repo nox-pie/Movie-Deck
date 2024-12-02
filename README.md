@@ -32,3 +32,8 @@ To build for production:
 ```bash
 npm run build
 ```
+
+## Author
+
+Prashant Kumar
+- Email: prashant.k23csai@nst.rishihood.edu.in
